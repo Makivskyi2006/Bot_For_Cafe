@@ -11,10 +11,10 @@ from telegram.ext import (
 # ------------------ CONFIG ------------------
 
 # Put your BotFather token here:
-TOKEN = "8599252498:AAGzO_YRydKoxxaa6tZvUJvAMhk3eC83D4g"
+TOKEN = "Your_Token"
 
 # Your Telegram ID (orders will be sent to this chat)
-ADMIN_CHAT_ID = 7108574196
+ADMIN_CHAT_ID = Your_ID
 
 # ------------------ DATA ------------------
 
